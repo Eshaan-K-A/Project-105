@@ -1,0 +1,23 @@
+.heading {
+    font-weight: bold;
+}
+
+
+
+.w {
+    font-size: larger; 
+}
+
+body{
+    background-color: rgb(63, 63, 63);
+    color: white;
+}
+
+#camera {
+    border: cornsilk 2px solid;
+    border-radius: 75px;
+    width: 350px;
+    height: 300px;
+    
+}
+
